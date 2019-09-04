@@ -1,0 +1,22 @@
+body{
+	margin:0;
+	padding: 0;
+}
+img{
+	border-radius: 80px;
+	border: 2px solid blue;
+}
+
+p, h4, ul, li, h3{
+	margin-left: 50px;
+	font-size: 20px;
+}
+.info{
+	margin-top: -175px;
+}
+.myName{
+	margin-top: -100px;
+}
+h4, h3, h1{
+	font-family: sans-serif;
+}
